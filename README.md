@@ -24,20 +24,18 @@ Frontend Developer & AI Service Builder
 # 🏆 Awards & Activities
 
 ### [2025] 오픈소스 기초 프로젝트
-- FastAPI + React 기반 팀 프로젝트 진행
-- 국회 Open API를 활용한 서비스 개발
+- React · FastAPI 기반 웹 서비스 개발
+- 팀 프로젝트 및 GitHub 협업 경험
 
 ### [2025] 오픈소스 개발 프로젝트
-- 스포츠 커뮤니티 웹 서비스 "We Play" 개발
-- Node.js · Express · MySQL 기반 웹 서비스 구현
-- Socket.io 실시간 채팅 및 이미지 업로드 기능 개발
-- Cloudflare Pages · Render 기반 배포 경험
+- 스포츠 커뮤니티 웹 서비스 개발
+- Node.js · Express · MySQL 기반 프로젝트 경험
 
 ### [2026] 멋쟁이사자처럼 충북대학교
 - 프론트엔드 파트 활동
 
 ### [2026] 멋쟁이사자처럼 중앙 아이디어톤
-- AI 기반 서비스 기획 및 프론트엔드 개발
+- AI 기반 서비스 기획 및 프론트엔드 개발 참여
 
 ---
 
@@ -45,9 +43,13 @@ Frontend Developer & AI Service Builder
 
 ## 🏛 국민 참여형 법안 피드백 대시보드
 
-- 국회 Open API 기반 법안 정보 제공 서비스
-- 찬반 투표 및 댓글 기능 구현
-- React 기반 프론트엔드 및 FastAPI 백엔드 연동
+국회 Open API를 활용해 법안 정보를 제공하고, 사용자가 법안에 대해 의견을 남길 수 있는 웹 서비스.
+
+### 주요 기능
+- 법안 정보 조회
+- 찬반 투표 기능
+- 댓글 기능
+- React 프론트엔드와 FastAPI 백엔드 연동
 
 ### Tech
 - Frontend : React · Vite · CSS
@@ -59,9 +61,12 @@ Frontend Developer & AI Service Builder
 
 ## ⚽ 실시간 경기 정보 서비스
 
-- 실시간 경기 정보 제공 웹 서비스
-- 경기 일정, 팀 정보, 경기 결과 확인 기능 구현
-- 사용자 중심의 화면 구성 및 반응형 UI 구현
+실시간 경기 정보와 팀 정보를 제공하는 스포츠 커뮤니티 웹 서비스.
+
+### 주요 기능
+- 경기 일정 및 경기 결과 조회
+- 팀 정보 확인
+- 사용자 중심의 반응형 UI 구현
 
 ### Tech
 - 프레임워크 : Vite + React
@@ -74,8 +79,12 @@ Frontend Developer & AI Service Builder
 
 ## 🤖 중앙 아이디어톤 프로젝트
 
-- AI 기반 서비스 MVP 제작
-- 사용자 중심 UI 설계 및 프론트 구현
+AI 기반 서비스 아이디어를 바탕으로 MVP 화면을 설계하고 구현한 프로젝트.
+
+### 주요 기능
+- AI 서비스 아이디어 기획
+- 사용자 중심 UI 설계
+- 프론트엔드 화면 구현
 
 ### Tech
 - 프레임워크 : Vite + React

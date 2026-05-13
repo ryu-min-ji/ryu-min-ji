@@ -1,4 +1,4 @@
-# 👋 Minji Portfolio
+# 👋 My Portfolio
 
 Frontend Developer & AI Service Builder
 
@@ -14,23 +14,27 @@ Frontend Developer & AI Service Builder
 # 🙋‍♀️ About Me
 
 - 🎓 충북대학교 소프트웨어학부 재학
-- 💻 React 기반 프론트엔드 개발에 관심이 있습니다.
-- 🎨 사용자 경험을 고려한 UI 구현을 좋아합니다.
-- 🚀 Vite · TypeScript · CSS 기반 웹 개발을 공부하고 있습니다.
-- 🤖 AI 서비스와 프론트엔드의 결합에 관심이 있습니다.
+- 💻 React 기반 프론트엔드 개발에 관심
+- 🎨 사용자 경험을 고려한 UI 구현을 좋아함
+- 🚀 Vite · TypeScript · CSS 기반 웹 개발 공부 중
+- 🤖 AI 서비스와 프론트엔드의 결합에 관심
 
 ---
 
 # 🏆 Awards & Activities
+
+### [2025] 오픈소스 기초 프로젝트
+- FastAPI + React 기반 팀 프로젝트 진행
+- 국회 Open API를 활용한 서비스 개발
+
+### [2025] 오픈소스 개발 프로젝트
+- 오픈소스 기반 프로젝트 개발 및 협업 경험
 
 ### [2026] 멋쟁이사자처럼 충북대학교
 - 프론트엔드 파트 활동
 
 ### [2026] 멋쟁이사자처럼 중앙 아이디어톤
 - AI 기반 서비스 기획 및 프론트엔드 개발
-
-### [2025] 오픈소스기초프로젝트
-- FastAPI + React 기반 팀 프로젝트 진행
 
 ---
 
@@ -50,6 +54,20 @@ Frontend Developer & AI Service Builder
 
 ---
 
+## ⚽ 실시간 경기 정보 서비스
+
+- 실시간 경기 정보 제공 웹 서비스
+- 경기 일정, 팀 정보, 경기 결과 확인 기능 구현
+- 사용자 중심의 화면 구성 및 반응형 UI 구현
+
+### Tech
+- Frontend : React · Vite · CSS
+- Backend : Spring Boot
+
+🔗 GitHub Repository
+
+---
+
 ## 🤖 AI 아이디어톤 프로젝트
 
 - AI 기반 서비스 MVP 제작
@@ -57,18 +75,6 @@ Frontend Developer & AI Service Builder
 
 ### Tech
 - React · TypeScript · Vite
-
-🔗 GitHub Repository
-
----
-
-## 🎮 C++ 콘솔 게임 프로젝트
-
-- 객체지향 기반 콘솔 게임 개발
-- 강화 시스템 및 아이템 기능 구현
-
-### Tech
-- C++
 
 🔗 GitHub Repository
 
@@ -93,6 +99,7 @@ Frontend Developer & AI Service Builder
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 </p>
 
 ## Tools

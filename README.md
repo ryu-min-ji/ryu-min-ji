@@ -19,6 +19,8 @@ Frontend Developer & AI Service Builder
 - 🎨 UI Implementation
 - 🤖 Interested in AI Service
 
+---
+
 # 🏆 Awards & Activities
 
 ### [2025] 오픈소스 기초 프로젝트
@@ -30,13 +32,14 @@ Frontend Developer & AI Service Builder
 - Node.js · Express · MySQL 기반 웹 서비스 구현
 - Socket.io 실시간 채팅 및 이미지 업로드 기능 개발
 - Cloudflare Pages · Render 기반 배포 경험
-- 
+
 ### [2026] 멋쟁이사자처럼 충북대학교
 - 프론트엔드 파트 활동
 
 ### [2026] 멋쟁이사자처럼 중앙 아이디어톤
 - AI 기반 서비스 기획 및 프론트엔드 개발
 
+---
 
 # 📂 Projects
 
@@ -61,20 +64,23 @@ Frontend Developer & AI Service Builder
 - 사용자 중심의 화면 구성 및 반응형 UI 구현
 
 ### Tech
-- Frontend : React · Vite · CSS
-- Backend : Spring Boot
+- 프레임워크 : Vite + React
+- 스타일링 라이브러리 : Tailwind CSS
+- TypeScript 사용
 
 🔗 GitHub Repository
 
 ---
 
-## 🤖 AI 아이디어톤 프로젝트
+## 🤖 중앙 아이디어톤 프로젝트
 
 - AI 기반 서비스 MVP 제작
 - 사용자 중심 UI 설계 및 프론트 구현
 
 ### Tech
-- React · TypeScript · Vite
+- 프레임워크 : Vite + React
+- 스타일링 라이브러리 : Tailwind CSS
+- TypeScript 사용
 
 🔗 GitHub Repository
 
@@ -91,6 +97,7 @@ Frontend Developer & AI Service Builder
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
 </p>
 
 ## Backend
@@ -112,16 +119,8 @@ Frontend Developer & AI Service Builder
 
 ---
 
-# 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ryu-min-ji&show_icons=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryu-min-ji&layout=compact" height="170">
-</p>
-
----
-
 # 📫 Contact Me
 
 - 📧 Email : rm3319@chungbuk.ac.kr
 - 🐙 GitHub : https://github.com/ryu-min-ji
+- 📝 Velog : https://velog.io/@_minnlux/posts

@@ -13,13 +13,11 @@ Frontend Developer & AI Service Builder
 
 # 🙋‍♀️ About Me
 
-- 🎓 충북대학교 소프트웨어학부 재학
-- 💻 React 기반 프론트엔드 개발에 관심
-- 🎨 사용자 경험을 고려한 UI 구현을 좋아함
-- 🚀 Vite · TypeScript · CSS 기반 웹 개발 공부 중
-- 🤖 AI 서비스와 프론트엔드의 결합에 관심
-
----
+- 🎓 충북대학교 소프트웨어학부
+- 💻 Frontend Developer
+- ⚡ React · TypeScript · Vite
+- 🎨 UI Implementation
+- 🤖 Interested in AI Service
 
 # 🏆 Awards & Activities
 
@@ -28,15 +26,17 @@ Frontend Developer & AI Service Builder
 - 국회 Open API를 활용한 서비스 개발
 
 ### [2025] 오픈소스 개발 프로젝트
-- 오픈소스 기반 프로젝트 개발 및 협업 경험
-
+- 스포츠 커뮤니티 웹 서비스 "We Play" 개발
+- Node.js · Express · MySQL 기반 웹 서비스 구현
+- Socket.io 실시간 채팅 및 이미지 업로드 기능 개발
+- Cloudflare Pages · Render 기반 배포 경험
+- 
 ### [2026] 멋쟁이사자처럼 충북대학교
 - 프론트엔드 파트 활동
 
 ### [2026] 멋쟁이사자처럼 중앙 아이디어톤
 - AI 기반 서비스 기획 및 프론트엔드 개발
 
----
 
 # 📂 Projects
 

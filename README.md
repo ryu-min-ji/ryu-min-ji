@@ -161,3 +161,19 @@ AI 기반 서비스 아이디어를 바탕으로 MVP 화면을 설계하고 구�
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 </p>
+
+---
+
+# 📫 Contact & Channel
+
+<p>
+  <a href="https://velog.io/@본인벨로그아이디" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+  </a>
+  <a href="mailto:본인이메일주소@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/ryu-min-ji" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  </a>
+</p>

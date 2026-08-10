@@ -37,6 +37,10 @@ Frontend Developer & AI Service Builder
 ### [2026] 멋쟁이사자처럼 중앙 아이디어톤
 - AI 기반 서비스 기획 및 프론트엔드 개발 참여
 
+### [2026] 멋쟁이사자처럼 해커톤 (진행중)
+- 주야간보호 전용 AI 생애여정 음악 지도 서비스 "똑똑(TokTok)" 기획 및 프론트엔드 개발
+- AI 기반 생애 인터뷰, 맞춤형 AI 작곡 및 일지 자동 생성 기능 구현 참여
+
 ---
 
 # 📂 Projects
@@ -89,9 +93,9 @@ Frontend Developer & AI Service Builder
 
 ---
 
-## 🤖 중앙 아이디어톤 프로젝트 (진행중)
+## 🤖 중앙 아이디어톤 프로젝트
 
-AI 기반 서비스 아이디어를 바탕으로 MVP 화면을 설계하고 구현 중인 프로젝트.
+AI 기반 서비스 아이디어를 바탕으로 MVP 화면을 설계하고 구현한 프로젝트.
 
 ### 주요 기능
 - AI 서비스 아이디어 기획
@@ -104,6 +108,24 @@ AI 기반 서비스 아이디어를 바탕으로 MVP 화면을 설계하고 구�
 - TypeScript 사용
 
 🔗 [GitHub Repository](https://github.com/CBNU-likelion/ideathon-4th-frontend)
+
+---
+
+## 🎵 똑똑(TokTok) - 멋쟁이사자처럼 해커톤 프로젝트 (진행중)
+
+주야간보호센터 어르신의 생애 이야기를 AI 기반 맞춤형 노래로 제작하고, 회기 일지와 대형 자막 노래방 기능을 제공하는 AI 생애여정 음악 지도 서비스[cite: 2].
+
+### 주요 기능
+- AI 생애 인터뷰 및 스토리 구조화 (가사 자동 생성)[cite: 2]
+- 맞춤형 AI 음악 생성 및 재생[cite: 2]
+- TV/빔 프로젝터 연동 대형 자막 노래방 모드[cite: 2]
+- 평가용 증빙 패키지 및 일지 자동 생성[cite: 2]
+- 보호자 및 가족 공동창작방 연동 기능[cite: 2]
+
+### Tech
+- Frontend : React · TypeScript · Vite
+- Styling : Tailwind CSS
+- Tools : Figma · GitHub
 
 ---
 
@@ -139,11 +161,3 @@ AI 기반 서비스 아이디어를 바탕으로 MVP 화면을 설계하고 구�
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 </p>
-
----
-
-# 📫 Contact Me
-
-- 📧 Email : rm3319@chungbuk.ac.kr
-- 🐙 GitHub : https://github.com/ryu-min-ji
-- 📝 Velog : https://velog.io/@_minnlux/posts

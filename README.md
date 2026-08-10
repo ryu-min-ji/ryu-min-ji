@@ -31,6 +31,10 @@ Frontend Developer & AI Service Builder
 - 스포츠 커뮤니티 웹 서비스 "We Play" 개발
 - GitHub 기반 팀 협업 및 웹 서비스 배포 경험
 
+### [2026] 코멘토(Comento) 프론트엔드 개발 직무 부트캠프
+- 웹 표준, HTML/CSS 레이아웃 및 JavaScript 핵심 개념 학습[cite: 1]
+- React 기반 화면 구현 및 실무 과제 수행[cite: 1]
+
 ### [2026] 멋쟁이사자처럼 충북대학교
 - 프론트엔드 파트 활동
 

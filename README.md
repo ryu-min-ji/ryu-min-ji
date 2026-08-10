@@ -166,6 +166,6 @@ AI 기반 서비스 아이디어를 바탕으로 MVP 화면을 설계하고 구�
 
 # 📬 Contact & Link
 
-- 📧 **Email** : [이메일 보내기](mailto:rm3319@chungbuk.ac.kr)
-- 📝 **Velog** : [Velog 블로그 방문하기](https://velog.io/@_minnlux/posts)
-- 🐙 **GitHub** : [GitHub 프로필 방문하기](https://github.com/ryu-min-ji)
+- 📧 **Email** : [rm3319@chungbuk.ac.kr](mailto:rm3319@chungbuk.ac.kr)
+- 📝 **Velog** : https://velog.io/@_minnlux/posts
+- 🐙 **GitHub** : https://github.com/ryu-min-ji

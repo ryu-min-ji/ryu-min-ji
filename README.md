@@ -70,7 +70,7 @@ Frontend Developer & AI Service Builder
   - **대형 자막 노래방 & 일지 자동화** : 시설 TV 연동용 대형 자막 뷰 및 관찰 반응 태그 기반 일지 자동 렌더링/내보내기 구축[cite: 5, 6, 8]
   - **컴플라이언스 방어 로직** : 5종 분리 동의 UI 및 출처 미확인 데이터 가사 차단 상태 제어 로직 적용[cite: 2, 5]
 * **Tech Stack** : `React`, `TypeScript`, `Vite`, `Tailwind CSS`, `Supabase`, `Figma`[cite: 2, 8, 10]
-https://github.com/TokTok-lion/TokTok
+🔗 [GitHub Repository](https://github.com/TokTok-lion/TokTok)
 ---
 
 # 🏆 Awards & Activities

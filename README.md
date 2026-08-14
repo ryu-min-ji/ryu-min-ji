@@ -52,8 +52,7 @@ Frontend Developer & AI Service Builder
   - **경기 일정 대시보드** : TheSportsDB API 연동 및 새로고침 없는 React 상태(useState) 기반 날짜/구단별 실시간 필터링 구축
   - **인증 및 이미지 연동** : `localStorage` 기반 자동 로그인 세션 유지 및 Multer 기반 프로필/게시글 이미지 업로드 처리
 * **Tech Stack** : `React`, `JavaScript (ES6+)`, `Node.js`, `Express`, `Socket.io`, `Railway MySQL`, `Cloudflare Pages`
-  
- 🔗 [GitHub Repository](https://github.com/ikikiik/open-source-06)
+* 🔗 [GitHub Repository](https://github.com/ikikiik/open-source-06)
 
 ---
 
@@ -61,17 +60,18 @@ Frontend Developer & AI Service Builder
 
 ### 🎵 똑똑 (TokTok) - 시니어 AI 생애여정 음악 지도 서비스 (진행중)
 
-> **"주야간보호센터 어르신의 10분 회상 대화를 AI 맞춤형 노래로 제작하고, 공단 평가용 일지 패키지를 자동 완성하는 주야간보호 전용 B2B SaaS"**[cite: 4, 8]
+> **"주야간보호센터 어르신의 10분 회상 대화를 AI 맞춤형 노래로 제작하고, 공단 평가용 일지 패키지를 자동 완성하는 주야간보호 전용 B2B SaaS"**
 
-* **진행 기간** : 2026.07 ~ 2026.08 (멋쟁이사자처럼 14기 중앙 해커톤)[cite: 1, 4]
-* **담당 역할** : **Frontend Lead** (UI/UX 설계 및 화면 전체 구현)[cite: 5, 8]
+* **진행 기간** : 2026.07 ~ 2026.08 (멋쟁이사자처럼 14기 중앙 해커톤)
+* **담당 역할** : **Frontend Lead** (UI/UX 설계 및 화면 전체 구현)
 * **주요 기여 & 구현** :
-  - **시니어 맞춤형 인터랙션** : 인지 상태별 3단계 질문 흐름 UI 및 대화형 녹음 화면 구현[cite: 5]
-  - **AI 데이터 검수 & 오디오 플레이어** : STT 전사 텍스트 오타 교정 UI, 장르별 AI 작곡 프로그레스 시각화 및 버전별 음원 미리듣기 플레이어 개발[cite: 2, 5, 6]
-  - **대형 자막 노래방 & 일지 자동화** : 시설 TV 연동용 대형 자막 뷰 및 관찰 반응 태그 기반 일지 자동 렌더링/내보내기 구축[cite: 5, 6, 8]
-  - **컴플라이언스 방어 로직** : 5종 분리 동의 UI 및 출처 미확인 데이터 가사 차단 상태 제어 로직 적용[cite: 2, 5]
-* **Tech Stack** : `React`, `TypeScript`, `Vite`, `Tailwind CSS`, `Supabase`, `Figma`[cite: 2, 8, 10]
-*🔗 [GitHub Repository](https://github.com/TokTok-lion/TokTok)
+  - **시니어 맞춤형 인터랙션** : 인지 상태별 3단계 질문 흐름 UI 및 대화형 녹음 화면 구현
+  - **AI 데이터 검수 & 오디오 플레이어** : STT 전사 텍스트 오타 교정 UI, 장르별 AI 작곡 프로그레스 시각화 및 버전별 음원 미리듣기 플레이어 개발
+  - **대형 자막 노래방 & 일지 자동화** : 시설 TV 연동용 대형 자막 뷰 및 관찰 반응 태그 기반 일지 자동 렌더링/내보내기 구축
+  - **컴플라이언스 방어 로직** : 5종 분리 동의 UI 및 출처 미확인 데이터 가사 차단 상태 제어 로직 적용
+* **Tech Stack** : `React`, `TypeScript`, `Vite`, `Tailwind CSS`, `Supabase`, `Figma`
+* 🔗 [GitHub Repository](https://github.com/TokTok-lion/TokTok)
+
 ---
 
 # 🏆 Awards & Activities
@@ -88,15 +88,15 @@ Frontend Developer & AI Service Builder
 * **[2026.03 ~ 현재] 멋쟁이사자처럼 충북대학교 14기 (프론트엔드 트랙)**
   - 프론트엔드 정기 기술 세션 수료 (Git 브랜치 전략, React Hooks, TypeScript, Tailwind CSS, JWT 인증, Vercel 배포) [🔗 Repo](https://github.com/CBNU-likelion/2026_14th_final_study_FE)
   - **[2026.05] 멋쟁이사자처럼 14기 중앙 아이디어톤** : AI 서비스 기획 및 프론트엔드 프로토타입 구현 [🔗 Repo](https://github.com/CBNU-likelion/ideathon-4th-frontend)
-  - **[2026.07 ~ 2026.08] 멋쟁이사자처럼 14기 중앙 해커톤** : '똑똑(TokTok)' 프론트엔드 리드 개발 (진행중)[cite: 1, 4, 8]
+  - **[2026.07 ~ 2026.08] 멋쟁이사자처럼 14기 중앙 해커톤** : '똑똑(TokTok)' 프론트엔드 리드 개발 (진행중) [🔗 Repo](https://github.com/TokTok-lion/TokTok)
 * **[2026.07 ~ 2026.08] 코멘토(Comento) 프론트엔드 직무 부트캠프 (수료)**[cite: 15]
   - 현직자 1:1 코드 리뷰 4회 수행 (BEM 네이밍, CSS 아키텍처, Vanilla JS 기반 계산기/시계/To-Do List/회원가입 폼 구축)[cite: 11, 12, 13, 16, 17, 20]
   - 인라인 이벤트의 `addEventListener` 분리, `textContent` 기반 DOM XSS 방어, 상태(State)와 뷰(UI)의 책임 분리(SRP) 체화[cite: 14, 16, 17, 19]
-* **[2026.07 ~ 2026.08] 충북대학교 2026 직무(기업)분석 경진대회**[cite: 29]
-  - 토스증권(Toss Securities) Server Developer 3원 조직(Product·Platform·Market Platform) 및 대규모 금융 트랜잭션 아키텍처 분석[cite: 30, 31, 33]
-  - 30명 규모 IT 동아리 이식을 위한 'Problem-to-Product' 14주 실전 스프린트 및 Game Day 장애 대응 프레임워크 설계[cite: 30, 31, 34]
-* **[2026.07 ~ 2026.08] 충북대학교 AI-Tutor 학습 플러스 (수료 및 장학금 수혜)**[cite: 28]
-  - 6주간 대화형 AI 시스템을 활용한 코드 트레이싱(Tracing) 및 자바 OOP(다형성, 인터페이스, 제네릭, 컬렉션)와 프론트엔드 상태/타입 매핑 집중 학습[cite: 22, 23, 24, 25, 28]
+* **[2026.07 ~ 2026.08] 충북대학교 2026 직무(기업)분석 경진대회**
+  - 토스증권(Toss Securities) Server Developer 3원 조직(Product·Platform·Market Platform) 및 대규모 금융 트랜잭션 아키텍처 분석
+  - 30명 규모 IT 동아리 이식을 위한 'Problem-to-Product' 14주 실전 스프린트 및 Game Day 장애 대응 프레임워크 설계
+* **[2026.07 ~ 2026.08] 충북대학교 AI-Tutor 학습 플러스 (수료 및 장학금 수혜)**
+  - 6주간 대화형 AI 시스템을 활용한 코드 트레이싱(Tracing) 및 자바 OOP(다형성, 인터페이스, 제네릭, 컬렉션)와 프론트엔드 상태/타입 매핑 집중 학습[cite: 22, 23, 24, 25]
 * **[2026.07] 오라클 사업단 3주 몰입형 AI 부트캠프 (수료)**
   - Python/Pandas 기반 음원 특성 결측치(Median) 정제, 빌보드 데이터 2D 밀도 히트맵 시각화 및 Scikit-learn Random Forest 앙상블 분류 파이프라인 실습[cite: 21]
 

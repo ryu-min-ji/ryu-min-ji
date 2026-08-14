@@ -52,7 +52,8 @@ Frontend Developer & AI Service Builder
   - **경기 일정 대시보드** : TheSportsDB API 연동 및 새로고침 없는 React 상태(useState) 기반 날짜/구단별 실시간 필터링 구축
   - **인증 및 이미지 연동** : `localStorage` 기반 자동 로그인 세션 유지 및 Multer 기반 프로필/게시글 이미지 업로드 처리
 * **Tech Stack** : `React`, `JavaScript (ES6+)`, `Node.js`, `Express`, `Socket.io`, `Railway MySQL`, `Cloudflare Pages`
-* 🔗 [GitHub Repository](https://github.com/ikikiik/open-source-06)
+  
+ 🔗 [GitHub Repository](https://github.com/ikikiik/open-source-06)
 
 ---
 

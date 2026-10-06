@@ -104,6 +104,8 @@ Frontend Developer & AI Service Builder
 * **[AI 캠프] 오라클 사업단 3주 몰입형 AI 부트캠프 `수료`**
   - **데이터 분석 & ML** : Python/Pandas 기반 음원 데이터 결측치(Median) 정제, 2D 밀도 히트맵 시각화 및 Scikit-learn Random Forest 앙상블 분류 모델 실습
 
+* **[청년 공공 AX 서포터즈]**
+  - **(9월~27.01월) 진행중**
 ---
 
 # 🛠 Tech Stack

@@ -264,9 +264,9 @@
 | 2026.10 ~ 11 | Competition | **2026 AI 우왕톤** (멋사 × 충북대 AI부트캠프사업단) | `Ongoing` |
 | 2026.09 ~ 2027.01 | Program | **청년 공공 AX 서포터즈** (행정안전부 · NIA) | `Ongoing` |
 | 2026.09 ~ 10 | Competition | **2026 고용24 국민참여 AI 고용서비스 발굴 해커톤** | `Participated` |
-| 2026.07.22 ~ 07.27 | Program | **충북대 AI-Tutor 학습 플러스** | `Completed` |
 | 2026.07.05 ~ 08.02 | Bootcamp | **코멘토 프론트엔드 직무 부트캠프** | `Completed` |
 | 2026.06 ~ 08 | Competition | **충북대 직무(기업)분석 경진대회**: 토스증권 Server Developer | `Participated` |
+| 2026.06.22 ~ 07.27 | Program | **충북대 AI-Tutor 학습 플러스** | `Completed` |
 | 2026.06.22 ~ 07.10 | Bootcamp | **오라클 사업단 3주 몰입형 AI 부트캠프** | `Completed` |
 | 2026.03 ~ 12 | Club | **멋쟁이사자처럼 충북대 14기** Frontend Track | `Active` |
 
@@ -280,6 +280,7 @@
 - 행정안전부 · 한국지능정보사회진흥원(NIA) 주관, 팀 **시고르자브종** 프론트엔드
 - AI 활용 공공서비스 아이디어 2건 제안(**새방**, **자리진단**) → **자리진단이 팀 개발작으로 선정**
 - 2주 개발 → 공공 GitLab 등록 → 혁신박람회 시연 → 공무원·청년 공동실험
+- 📷 [Instagram @public_ax_official](https://www.instagram.com/public_ax_official/)
 
 <br clear="right">
 

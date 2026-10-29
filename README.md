@@ -298,6 +298,7 @@
 #### 💼 코멘토 프론트엔드 직무 부트캠프
 - **Code Review (4회)**: BEM 네이밍, CSS 변수 토큰화, 계산기 · 시계 · To-Do List · 회원가입 컴포넌트 모듈화
 - **Refactoring**: `addEventListener` 이벤트 분리, `textContent` 기반 XSS 예방, 상태와 뷰의 책임 분리 (SRP)
+- **Repos**: [Task 1](https://github.com/ryu-min-ji/bootcamp-task1) · [Task 2](https://github.com/ryu-min-ji/bootcamp-task2) · [Task 3](https://github.com/ryu-min-ji/bootcamp-task3) · [Task 4](https://github.com/ryu-min-ji/bootcamp-task4)
 
 #### 🤖 충북대 AI-Tutor 학습 플러스
 - **Code Tracing**: 대화형 AI로 실행 흐름을 시각화하고 디버깅 루틴 확립

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:646CFF&height=210&section=header&text=Hi,%20I'm%20Minji%20Ryu&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20%C2%B7%20AI%20Service%20Builder&descAlignY=58&descSize=18" width="100%"/>
+# Hi, I'm Minji Ryu 👋
 
 **Problem-driven Frontend Developer** who turns real-life problems into AI-powered products.<br>
 문제를 정의하고, AI 서비스를 사용자가 쓰는 화면으로 완성합니다.
@@ -18,49 +18,48 @@
 
 ## 👩‍💻 About Me
 
-> **"Numbers by code, meaning by AI."**<br>
-> 판단과 계산은 코드로 정확하게, 해석과 설명은 AI로 쉽게. 제가 AI 서비스를 설계하는 원칙이에요.
-
-| | |
-| :-- | :-- |
-| 🎓 **Education** | 충북대학교 소프트웨어학부 인공지능전공 3학년 |
-| 💻 **Position** | Frontend Developer |
-| ⚡ **Main Stack** | React · TypeScript · Next.js · Tailwind CSS |
-| 🧑‍💻 **Solo Build** | 기획 · 디자인 · 프론트 · 백엔드 · 배포까지 혼자 해 본 1인 개발 경험 |
-| 🤖 **Interest** | 생성형 AI 서비스 기획과 프론트엔드 연동, 모바일 우선 UI/UX |
+- 🎓 충북대학교 소프트웨어학부 **인공지능전공** 3학년
+- 💻 **Frontend Developer** · React · TypeScript · Next.js · Tailwind CSS
+- 🧑‍💻 기획 · 디자인 · 프론트 · 백엔드 · 배포까지 **혼자 전 과정을 해 본 1인 개발** 경험
+- 🤖 **생성형 AI 서비스**를 기획하고 화면으로 연결하는 일을 좋아해요
+- 🎨 사용자 중심 **UI/UX**와 **모바일 우선 반응형** 인터페이스에 관심이 많아요
 
 <br>
 
 ## 🛠 Tech Stack
 
-| | |
-| :-- | :-- |
-| **Frontend** | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"> <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> |
-| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white"> |
-| **Database** | <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=Supabase&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"> |
-| **Deploy** | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"> <img src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"> |
-| **Collaboration** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> |
+**Frontend**<br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+
+**Backend**<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white">
+
+**Database**<br>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=Supabase&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
+
+**Deploy**<br>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"> <img src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
+
+**Collaboration**<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
 <br>
 
 ## 🚀 Projects
 
-<img src="https://img.shields.io/badge/Ongoing-F59E0B?style=flat-square"> 진행 중 &nbsp;
-<img src="https://img.shields.io/badge/Solo-8B5CF6?style=flat-square"> 기획부터 배포까지 혼자 진행한 1인 프로젝트
-
 | | Project | Period | Team | Role | Links |
 | :-: | :-- | :-- | :-- | :-- | :-: |
-| 🏪 | **자리진단** <img src="https://img.shields.io/badge/Ongoing-F59E0B?style=flat-square"><br>창업 전 점포 자리 이력 AI 진단 | 2026.11 | 5인 · 청년 공공 AX 서포터즈 | Frontend | GitLab 예정 |
-| ☕ | **AI 사수** <img src="https://img.shields.io/badge/Ongoing-F59E0B?style=flat-square"><br>신입 알바생의 옆자리 AI 선배 | 2026.10 ~ 11 | 4인 · 멋사 AI 우왕톤 | FE · Notion | 제출 후 공개 |
-| 💑 | **갓생커플** <img src="https://img.shields.io/badge/Solo-8B5CF6?style=flat-square"><br>커플 자기계발 루틴 트래커 | 2026.08 | 1인 | Full-cycle | [Repo](https://github.com/ryu-min-ji/gatsaeng-couple) · [Demo](https://gatsaeng-couple.vercel.app) |
-| 📝 | **Care Log** <img src="https://img.shields.io/badge/Solo-8B5CF6?style=flat-square"><br>보육교사 AI 관찰일지 도구 | 2026.08 | 1인 | Full-cycle | [Repo](https://github.com/ryu-min-ji/care-log) |
-| 🎵 | **똑똑 TokTok** <img src="https://img.shields.io/badge/Ongoing-F59E0B?style=flat-square"><br>시니어 AI 생애여정 음악 지도 | 2026.07 ~ 08 | 멋사 14기 중앙 해커톤 | FE Lead | [Repo](https://github.com/TokTok-lion/TokTok) |
+| 🏪 | **자리진단**<br>창업 전 점포 자리 이력 AI 진단 | 2026.09 ~ 2027.01 | 5인 · 청년 공공 AX 서포터즈 | Frontend | GitLab 예정 |
+| ☕ | **AI 사수**<br>신입 알바생의 옆자리 AI 선배 | 2026.10 ~ 11 | 4인 · 멋사 AI 우왕톤 | FE | 제출 후 공개 |
+| 💑 | **갓생커플**<br>커플 자기계발 루틴 트래커 | 2026.08 | 1인 개발 | Full-cycle | [Repo](https://github.com/ryu-min-ji/gatsaeng-couple) · [Demo](https://gatsaeng-couple.vercel.app) |
+| 📝 | **Care Log**<br>보육교사 AI 관찰일지 도구 | 2026.08 | 1인 개발 | Full-cycle | [Repo](https://github.com/ryu-min-ji/care-log) |
+| 🎵 | **똑똑 TokTok**<br>시니어 AI 생애여정 음악 지도 | 2026.07 ~ 08 | 멋사 14기 중앙 해커톤 | FE Lead | [Repo](https://github.com/TokTok-lion/TokTok) |
 | ⚽ | **We Play**<br>올인원 스포츠 팬 커뮤니티 | 2025.09 ~ 12 | 4인 · 오픈소스 개발 프로젝트 | FE Lead | [Repo](https://github.com/ikikiik/open-source-06) |
 | 🏛 | **ACT:ON**<br>국민 참여형 법안 피드백 대시보드 | 2025.03 ~ 06 | 2인 · 오픈소스 기초 프로젝트 | Full-stack · UI/UX | [Repo](https://github.com/lgh04/MGP) |
 
 <!-- 수상한 프로젝트는 제목 바로 아래에 이렇게 한 줄 추가: **🏆 2026 OO대회 우수상** -->
 
----
+<br>
 
 ### 🏪 자리진단 · Site History Check
 > 중고차 사고 이력을 조회하듯, 가게 자리를 계약하기 전에 그 자리를 거쳐 간 가게들의 개업·폐업 이력을 AI가 해석해 **창업 위험 진단서**로 돌려주는 공공서비스
@@ -82,6 +81,8 @@
 
 </details>
 
+<br>
+
 ### ☕ AI 사수 · AI Mentor for Part-timers
 > 개인 카페 신입 알바생이 매뉴얼 사진을 외우는 대신, AI가 매뉴얼을 카드와 퀴즈로 정리하고 근무 중 질문에 답해 주는 서비스 · 대회 주제 "AI는 동료가 될 수 있는가"
 
@@ -101,6 +102,8 @@
 - **협업 운영**: 노션 워크스페이스 설계(회의록 ↔ 업무 DB), 발표 자료, 최종 제출
 
 </details>
+
+<br>
 
 ### 💑 갓생커플 · Gatsaeng Couple
 > 취준생·대학생 커플이 각자의 자기계발 루틴을 함께 인증하는 습관 트래커 · **처음으로 기획부터 배포까지 전 과정을 혼자 해 본 프로젝트**
@@ -130,6 +133,8 @@
 
 </details>
 
+<br>
+
 ### 📝 Care Log
 > 보육교사가 남긴 메모 한 줄을 표준보육과정 5개 영역 기준 **관찰일지**와 **학부모 알림장**으로 동시에 만들어 주는 AI 기록 도구
 
@@ -147,6 +152,8 @@
 
 </details>
 
+<br>
+
 ### 🎵 똑똑 TokTok
 > 어르신의 10분 회상 대화를 AI 맞춤형 노래로 제작하고, 공단 평가용 일지 작성을 자동화하는 B2B SaaS
 
@@ -162,6 +169,8 @@
 
 </details>
 
+<br>
+
 ### ⚽ We Play
 > KBO 경기 일정 조회, 실시간 응원 채팅, 커뮤니티를 한 곳에서 즐기는 스포츠 팬 플랫폼
 
@@ -176,6 +185,8 @@
 - **인증 & 이미지**: `localStorage` 기반 자동 로그인 유지, Multer 이미지 업로드 연동
 
 </details>
+
+<br>
 
 ### 🏛 ACT:ON
 > 국회 공공 API 데이터를 시각화해 시민의 찬반 투표와 실시간 토론을 이끄는 양방향 디지털 민주주의 플랫폼
@@ -239,21 +250,20 @@
 
 ## 🌱 Experience
 
-<img src="https://img.shields.io/badge/🏆-Award-EAB308?style=flat-square"> 수상 &nbsp;
-<img src="https://img.shields.io/badge/🎓-Scholarship-10B981?style=flat-square"> 장학금
+> 🏆 수상 · 🎓 장학금
 
 <!-- 수상한 활동은 Status 칸에 🏆 **상 이름** 형식으로 적어 주세요. 예: 🏆 **우수상** -->
 
 | Period | Type | Activity | Status |
 | :-- | :-: | :-- | :-: |
-| 2026.09 ~ 2027.01 | Program | **청년 공공 AX 서포터즈** (행정안전부 · NIA) | `Ongoing` |
 | 2026.10 ~ 11 | Competition | **2026 AI 우왕톤** (멋사 × 충북대 AI부트캠프사업단) | `Ongoing` |
+| 2026.09 ~ 2027.01 | Program | **청년 공공 AX 서포터즈** (행정안전부 · NIA) | `Ongoing` |
 | 2026.09 ~ 10 | Competition | **2026 고용24 국민참여 AI 고용서비스 발굴 해커톤** | `Participated` |
-| 2026 | Club | **멋쟁이사자처럼 충북대 14기** Frontend Track | `Active` |
+| 2026.07.22 ~ 07.27 | Program | **충북대 AI-Tutor 학습 플러스** | `Completed` 🎓 |
+| 2026.07.05 ~ 08.02 | Bootcamp | **코멘토 프론트엔드 직무 부트캠프** | `Completed` |
 | 2026.06 ~ 08 | Competition | **충북대 직무(기업)분석 경진대회**: 토스증권 Server Developer | `Participated` |
-| 2026 | Bootcamp | **코멘토 프론트엔드 직무 부트캠프** | `Completed` |
-| 2026 | Program | **충북대 AI-Tutor 학습 플러스** | `Completed` 🎓 |
-| 2026 | Bootcamp | **오라클 사업단 3주 몰입형 AI 부트캠프** | `Completed` |
+| 2026.06.22 ~ 07.10 | Bootcamp | **오라클 사업단 3주 몰입형 AI 부트캠프** | `Completed` |
+| 2026.03 ~ 12 | Club | **멋쟁이사자처럼 충북대 14기** Frontend Track | `Active` |
 
 <details>
 <summary><b>Details</b></summary>
@@ -317,5 +327,3 @@
 **Thanks for visiting!** 🙌
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:646CFF,100:61DAFB&height=120&section=footer" width="100%"/>

@@ -1,28 +1,24 @@
-<div align="center">
+# 👋 My Profile
 
-# Hi, I'm Minji Ryu 👋
+**Minji Ryu** · Frontend Developer & AI Service Builder
 
-**Problem-driven Frontend Developer** who turns real-life problems into AI-powered products.<br>
-문제를 정의하고, AI 서비스를 사용자가 쓰는 화면으로 완성합니다.
-
-<br>
-
-<img src="https://img.shields.io/badge/CBNU-Software%20%C2%B7%20AI%20Major-0A3D91?style=flat-square">
-<img src="https://img.shields.io/badge/LIKELION-14th%20Frontend-FF7710?style=flat-square">
-<img src="https://img.shields.io/badge/Public%20AX-Supporters-1E4BA0?style=flat-square">
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/CBNU-Software%20%C2%B7%20AI%20Major-0A3D91?style=flat-square">
+  <img src="https://img.shields.io/badge/LIKELION-14th%20Frontend-FF7710?style=flat-square">
+  <img src="https://img.shields.io/badge/Public%20AX-Supporters-1E4BA0?style=flat-square">
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+</p>
 
 <br>
 
 ## 👩‍💻 About Me
 
-- 🎓 충북대학교 소프트웨어학부 **인공지능전공** 3학년
-- 💻 **Frontend Developer** · React · TypeScript · Next.js · Tailwind CSS
-- 🧑‍💻 기획 · 디자인 · 프론트 · 백엔드 · 배포까지 **혼자 전 과정을 해 본 1인 개발** 경험
-- 🤖 **생성형 AI 서비스**를 기획하고 화면으로 연결하는 일을 좋아해요
-- 🎨 사용자 중심 **UI/UX**와 **모바일 우선 반응형** 인터페이스에 관심이 많아요
+- 🎓 **Education** · Chungbuk National University, Software (AI Major), Junior
+- 💻 **Position** · Frontend Developer
+- ⚡ **Main Stack** · React · TypeScript · Next.js · Tailwind CSS
+- 🧑‍💻 **Solo Build** · Shipped a full product on my own, from planning and design to frontend, backend, and deployment
+- 🤖 **Interest** · Planning generative AI services and turning them into user-facing interfaces
+- 🎨 **Focus** · User-centered UI/UX and mobile-first responsive design
 
 <br>
 

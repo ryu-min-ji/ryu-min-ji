@@ -50,6 +50,7 @@
 | 💑 | **갓생커플**<br>커플 자기계발 루틴 트래커 | 2026.08 | 1인 개발 | Full-cycle | [Repo](https://github.com/ryu-min-ji/gatsaeng-couple) · [Demo](https://gatsaeng-couple.vercel.app) |
 | 📝 | **Care Log**<br>보육교사 AI 관찰일지 도구 | 2026.08 | 1인 개발 | Full-cycle | [Repo](https://github.com/ryu-min-ji/care-log) |
 | 🎵 | **똑똑 TokTok**<br>시니어 AI 생애여정 음악 지도 | 2026.07 ~ 08 | 멋사 14기 중앙 해커톤 | FE Lead | [Repo](https://github.com/TokTok-lion/TokTok) |
+| 🪐 | **AI 취준 로드맵**<br>데이터 기반 취업 준비 궤도 설계 | 2026.04 ~ 05 | 멋사 중앙 아이디어톤 | FE | [Repo](https://github.com/CBNU-likelion/ideathon-4th-frontend) |
 | ⚽ | **We Play**<br>올인원 스포츠 팬 커뮤니티 | 2025.09 ~ 12 | 4인 · 오픈소스 개발 프로젝트 | FE Lead | [Repo](https://github.com/ikikiik/open-source-06) |
 | 🏛 | **ACT:ON**<br>국민 참여형 법안 피드백 대시보드 | 2025.03 ~ 06 | 2인 · 오픈소스 기초 프로젝트 | Full-stack · UI/UX | [Repo](https://github.com/lgh04/MGP) |
 
@@ -167,6 +168,26 @@
 
 <br>
 
+### 🪐 AI 취준 로드맵 · Career Orbit
+> "단 하나의 취준 성공 궤도" · 취준생에게 객관적인 데이터 기반 방향성, 개인 맞춤 로드맵, 현직자 커피챗 연결을 제공하는 AI 취업 준비 서비스
+
+**Stack** &nbsp; `React` `TypeScript` `Vite` `Tailwind CSS v4` `React Router`
+
+<details>
+<summary><b>Key Features · My Role</b></summary>
+
+**Key Features**
+- **Home**: 방향성 · 객관적인 데이터 · 개인 맞춤 로드맵 · 현직자 연결로 이어지는 서비스 소개
+- **Menu**: 로드맵, 커피챗, AI 분석, 프로필
+
+**My Role**
+- **AI 분석 대시보드 페이지 개발**: 지난주 학습 현황과 경쟁자 분석 비교, AI 성공 평점, 역량 카테고리별 평가(경험 · 교육수준 · 대외활동 · 커뮤니케이션 · 도메인 지식), 개선 포인트 요약
+- 페이지별 분업 개발 후 팀원과 전체 flow 연결, 멋사 레포에 통합
+
+</details>
+
+<br>
+
 ### ⚽ We Play
 > KBO 경기 일정 조회, 실시간 응원 채팅, 커뮤니티를 한 곳에서 즐기는 스포츠 팬 플랫폼
 
@@ -246,8 +267,6 @@
 
 ## 🌱 Experience
 
-> 🏆 수상 · 🎓 장학금
-
 <!-- 수상한 활동은 Status 칸에 🏆 **상 이름** 형식으로 적어 주세요. 예: 🏆 **우수상** -->
 
 | Period | Type | Activity | Status |
@@ -255,7 +274,7 @@
 | 2026.10 ~ 11 | Competition | **2026 AI 우왕톤** (멋사 × 충북대 AI부트캠프사업단) | `Ongoing` |
 | 2026.09 ~ 2027.01 | Program | **청년 공공 AX 서포터즈** (행정안전부 · NIA) | `Ongoing` |
 | 2026.09 ~ 10 | Competition | **2026 고용24 국민참여 AI 고용서비스 발굴 해커톤** | `Participated` |
-| 2026.07.22 ~ 07.27 | Program | **충북대 AI-Tutor 학습 플러스** | `Completed` 🎓 |
+| 2026.07.22 ~ 07.27 | Program | **충북대 AI-Tutor 학습 플러스** | `Completed` |
 | 2026.07.05 ~ 08.02 | Bootcamp | **코멘토 프론트엔드 직무 부트캠프** | `Completed` |
 | 2026.06 ~ 08 | Competition | **충북대 직무(기업)분석 경진대회**: 토스증권 Server Developer | `Participated` |
 | 2026.06.22 ~ 07.10 | Bootcamp | **오라클 사업단 3주 몰입형 AI 부트캠프** | `Completed` |
@@ -276,7 +295,7 @@
 
 #### 🦁 멋쟁이사자처럼 충북대 14기
 - **Sessions**: Git 브랜치 전략, React Hooks 심화, TypeScript, Tailwind CSS, JWT 인증 플로우, Vercel 배포 · [Repo](https://github.com/CBNU-likelion/2026_14th_final_study_FE)
-- **Ideathon**: AI 서비스 기획 및 프론트엔드 프로토타입 구현 · [Repo](https://github.com/CBNU-likelion/ideathon-4th-frontend)
+- **Ideathon (2026.04 ~ 05)**: AI 취준 로드맵 서비스 기획, AI 분석 대시보드 프론트엔드 구현 · [Repo](https://github.com/CBNU-likelion/ideathon-4th-frontend)
 - **Hackathon**: 시니어 AI 음악 지도 서비스 '똑똑(TokTok)' 프론트엔드 리드 · [Repo](https://github.com/TokTok-lion/TokTok)
 - **AI 우왕톤**: 'AI 사수' FE · 노션 운영 (TEAM 13 F4)
 
@@ -300,26 +319,9 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ryu-min-ji&show_icons=true&hide_border=true&theme=transparent&title_color=646CFF&icon_color=61DAFB" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryu-min-ji&layout=compact&hide_border=true&theme=transparent&title_color=646CFF" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=ryu-min-ji&hide_border=true&theme=transparent&ring=646CFF&fire=61DAFB&currStreakLabel=646CFF" width="60%"/>
-
-</div>
-
-<br>
-
 ## 📫 Contact
 
-<div align="center">
-
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-<a href="https://github.com/ryu-min-ji"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-
-**Thanks for visiting!** 🙌
-
-</div>
+<p>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-YOUR__EMAIL-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="https://github.com/ryu-min-ji"><img src="https://img.shields.io/badge/GitHub-ryu--min--ji-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+</p>

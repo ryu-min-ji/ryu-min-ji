@@ -46,11 +46,10 @@
 | | Project | Period | Team | Role | Links |
 | :-: | :-- | :-- | :-- | :-- | :-: |
 | 🏪 | **자리진단**<br>창업 전 점포 자리 이력 AI 진단 | 2026.09 ~ 2027.01 | 5인 · 청년 공공 AX 서포터즈 | Frontend | GitLab 예정 |
-| ☕ | **AI 사수**<br>신입 알바생의 옆자리 AI 선배 | 2026.10 ~ 11 | 4인 · 멋사 AI 우왕톤 | FE | 제출 후 공개 |
+| ☕ | **AI 사수**<br>신입 알바생의 옆자리 AI 선배 | 2026.10 ~ 11 | 4인 · 멋사 AI 우왕톤 | FE | [GitHub](https://github.com/woowang-F4) |
 | 💑 | **갓생커플**<br>커플 자기계발 루틴 트래커 | 2026.08 | 1인 개발 | Full-cycle | [Repo](https://github.com/ryu-min-ji/gatsaeng-couple) · [Demo](https://gatsaeng-couple.vercel.app) |
 | 📝 | **Care Log**<br>보육교사 AI 관찰일지 도구 | 2026.08 | 1인 개발 | Full-cycle | [Repo](https://github.com/ryu-min-ji/care-log) |
 | 🎵 | **똑똑 TokTok**<br>시니어 AI 생애여정 음악 지도 | 2026.07 ~ 08 | 멋사 14기 중앙 해커톤 | FE Lead | [Repo](https://github.com/TokTok-lion/TokTok) |
-| 🪐 | **AI 취준 로드맵**<br>데이터 기반 취업 준비 궤도 설계 | 2026.04 ~ 05 | 멋사 중앙 아이디어톤 | FE | [Repo](https://github.com/CBNU-likelion/ideathon-4th-frontend) |
 | ⚽ | **We Play**<br>올인원 스포츠 팬 커뮤니티 | 2025.09 ~ 12 | 4인 · 오픈소스 개발 프로젝트 | FE Lead | [Repo](https://github.com/ikikiik/open-source-06) |
 | 🏛 | **ACT:ON**<br>국민 참여형 법안 피드백 대시보드 | 2025.03 ~ 06 | 2인 · 오픈소스 기초 프로젝트 | Full-stack · UI/UX | [Repo](https://github.com/lgh04/MGP) |
 
@@ -168,26 +167,6 @@
 
 <br>
 
-### 🪐 AI 취준 로드맵 · Career Orbit
-> "단 하나의 취준 성공 궤도" · 취준생에게 객관적인 데이터 기반 방향성, 개인 맞춤 로드맵, 현직자 커피챗 연결을 제공하는 AI 취업 준비 서비스
-
-**Stack** &nbsp; `React` `TypeScript` `Vite` `Tailwind CSS v4` `React Router`
-
-<details>
-<summary><b>Key Features · My Role</b></summary>
-
-**Key Features**
-- **Home**: 방향성 · 객관적인 데이터 · 개인 맞춤 로드맵 · 현직자 연결로 이어지는 서비스 소개
-- **Menu**: 로드맵, 커피챗, AI 분석, 프로필
-
-**My Role**
-- **AI 분석 대시보드 페이지 개발**: 지난주 학습 현황과 경쟁자 분석 비교, AI 성공 평점, 역량 카테고리별 평가(경험 · 교육수준 · 대외활동 · 커뮤니케이션 · 도메인 지식), 개선 포인트 요약
-- 페이지별 분업 개발 후 팀원과 전체 flow 연결, 멋사 레포에 통합
-
-</details>
-
-<br>
-
 ### ⚽ We Play
 > KBO 경기 일정 조회, 실시간 응원 채팅, 커뮤니티를 한 곳에서 즐기는 스포츠 팬 플랫폼
 
@@ -230,6 +209,7 @@
 | 🏠 | **새방**<br>신입생 공공 주거 내비게이터 | 기숙사 탈락 신입생이 흩어진 공공 주거 대안을 놓치고, 시세도 모른 채 방을 계약함 | 청년 공공 AX 서포터즈 | 제안 · FE 설계 |
 | 🚦 | **퇴사신호등**<br>퇴사 전 실업급여 사전점검 | 재직자가 실업급여를 받을 수 있는지 모른 채 퇴사를 결정하고, 증빙도 놓침 | 고용24 AI 고용서비스 해커톤 | FE · 4인 팀 |
 | 🐳 | **CBNU Whale-Lounge**<br>충북대 전용 웨일온 확장앱 | 화상회의 도구에 팀플·스터디 기능이 부족하고, 무료 40분 제한과 자료 공유에 한계가 있음 | 네이버 웨일 캠퍼스 크루 | FE · 5인 팀 |
+| 🪐 | **AI 취준 로드맵**<br>데이터 기반 취업 준비 궤도 설계 | 취준생이 객관적인 데이터 없이 감으로 방향을 정하고, 현직자 조언을 구하기 어려움 | 멋사 중앙 아이디어톤 | FE · [Repo](https://github.com/CBNU-likelion/ideathon-4th-frontend) |
 
 <details>
 <summary><b>🏠 새방 · 합격부터 개강까지, 방 때문에 손해 보지 않게</b></summary>
@@ -260,6 +240,16 @@
 - **Study Room**: 방 전용 단체 채팅, 공부 시간 자동 누적, 참여자별 개인화 뽀모도로 타이머
 - **Plan**: Whale Extension Manifest v3 기반 4개월 로드맵, 세미나·런칭 부스·숏폼 챌린지 등 마케팅 전략 6종
 - **My Role**: 팀 웨일해유 프론트엔드. 사용자 중심 UI/UX 구현과 반응형 인터페이스 설계
+
+</details>
+
+<details>
+<summary><b>🪐 AI 취준 로드맵 · "단 하나의 취준 성공 궤도"</b></summary>
+
+- **Concept**: 객관적인 데이터 기반 방향성, 개인 맞춤 로드맵, 현직자 커피챗 연결을 제공하는 AI 취업 준비 서비스
+- **Menu**: 로드맵, 커피챗, AI 분석, 프로필
+- **Stack**: React · TypeScript · Vite · Tailwind CSS v4 · React Router
+- **My Role**: AI 분석 대시보드 페이지 개발. 지난주 학습 현황과 경쟁자 비교, AI 성공 평점, 역량 카테고리별 평가, 개선 포인트 요약 화면 구현 후 팀원과 전체 flow 연결
 
 </details>
 
@@ -321,7 +311,5 @@
 
 ## 📫 Contact
 
-<p>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-YOUR__EMAIL-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
-  <a href="https://github.com/ryu-min-ji"><img src="https://img.shields.io/badge/GitHub-ryu--min--ji-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-</p>
+- 📧 **Email** · [rm3319@chungbuk.ac.kr](mailto:rm3319@chungbuk.ac.kr)
+- 🐙 **GitHub** · [github.com/ryu-min-ji](https://github.com/ryu-min-ji)

@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/CBNU-Software%20%C2%B7%20AI%20Major-0A3D91?style=flat-square">
   <img src="https://img.shields.io/badge/LIKELION-14th%20Frontend-FF7710?style=flat-square">
   <img src="https://img.shields.io/badge/Public%20AX-Supporters-1E4BA0?style=flat-square">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="mailto:rm3319@chungbuk.ac.kr"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 
 <br>
@@ -45,8 +45,9 @@
 
 | | Project | Period | Team | Role | Links |
 | :-: | :-- | :-- | :-- | :-- | :-: |
-| 🏪 | **자리진단**<br>창업 전 점포 자리 이력 AI 진단 | 2026.09 ~ 2027.01 | 5인 · 청년 공공 AX 서포터즈 | Frontend | GitLab 예정 |
-| ☕ | **AI 사수**<br>신입 알바생의 옆자리 AI 선배 | 2026.10 ~ 11 | 4인 · 멋사 AI 우왕톤 | FE | [GitHub](https://github.com/woowang-F4) |
+| 💚 | **굿네이버스 웹 메이커스**<br>1기 웹 제작 프로젝트 | 2026.11.16 ~ 11.30 | 굿네이버스 웹 메이커스 1기 | Frontend | Repo 예정 |
+| 📍 | **Spot:ON**<br>공공데이터 기반 창업 입지 진단 | 2026.09 ~ 2027.01 | 5인 · 청년 공공 AX 서포터즈 | Frontend | [Repo](https://github.com/sigoreu-jabeujong/SpotON-FE) · [Demo](https://spot-on-fe.vercel.app) |
+| ☕ | **crewBean**<br>개인 카페 신입 알바생의 AI 사수 | 2026.10 ~ 11 | 4인 · 멋사 AI 우왕톤 | FE | [Repo](https://github.com/woowangthon/WOOWANGTHON_TEAM_13_FE) · [Demo](https://woowangthon-team-13-fe.vercel.app) |
 | 💑 | **갓생커플**<br>커플 자기계발 루틴 트래커 | 2026.08 | 1인 개발 | Full-cycle | [Repo](https://github.com/ryu-min-ji/gatsaeng-couple) · [Demo](https://gatsaeng-couple.vercel.app) |
 | 📝 | **Care Log**<br>보육교사 AI 관찰일지 도구 | 2026.08 | 1인 개발 | Full-cycle | [Repo](https://github.com/ryu-min-ji/care-log) |
 | 🎵 | **똑똑 TokTok**<br>시니어 AI 생애여정 음악 지도 | 2026.07 ~ 08 | 멋사 14기 중앙 해커톤 | FE Lead | [Repo](https://github.com/TokTok-lion/TokTok) |
@@ -57,45 +58,54 @@
 
 <br>
 
-### 🏪 자리진단 · Site History Check
-> 중고차 사고 이력을 조회하듯, 가게 자리를 계약하기 전에 그 자리를 거쳐 간 가게들의 개업·폐업 이력을 AI가 해석해 **창업 위험 진단서**로 돌려주는 공공서비스
+### 📍 Spot:ON · Is your spot on?
+> 계약하려는 주소 하나로 그 자리를 거쳐 간 점포의 이력과 주변 같은 업종의 생존 기록을 **근거와 함께** 보여주는 공공데이터 기반 창업 입지 진단 웹서비스 · 내가 제안한 '자리진단' 아이디어가 팀 개발작으로 선정되어 구현
 
-**Stack** &nbsp; `React` `TypeScript` `Vite` `Tailwind CSS` `FastAPI` `Kakao Map API` `LLM` `공공 인허가 데이터`
+**Stack** &nbsp; `React 19` `TypeScript` `Vite` `Tailwind CSS v4` `React Router` `TanStack Query` `Kakao Map SDK` `recharts` `Vitest` `GitHub Actions` `Vercel`
 
 <details>
 <summary><b>Key Features · My Role</b></summary>
 
 **Key Features**
-- **자리 이력 타임라인**: 같은 자리를 거쳐 간 가게들을 업종별 막대로 표시
-- **위험 지표**: 같은 업종 폐업 횟수, 평균 영업기간, 1년 내 폐업 비율, 반경 300m 동종업체 수를 코드로 계산
-- **AI 창업 위험 진단서**: 계산된 지표만 인용해 위험·긍정 신호, 대안 업종, 계약 전 체크리스트를 작성하고 수치 일치 검사로 환각 방지
+- **과거 점포 이력**: 같은 건물을 거쳐 간 점포의 개업·폐업일, 영업 기간, 브랜드·체인(추정)
+- **주변 동일 업종 지도**: 반경 300 / 500 / 1,000m 안 같은 업종 점포를 영업 중 / 폐업으로 표시, 세부 업종·규모 필터
+- **시점 조회 · 상권 지표**: 1 · 3 · 5년 전 점포가 지금도 영업 중인지, 최근 12개월 개업·폐업 추이
+- **정량 지표**: 서울시 공식 지표와 Spot:ON 참고 지표(폐업률 · 1 · 3주년 생존율)를 영역을 나눠 표시
+- **AI 해석**: 서버가 검증한 4문단 해석과 계약 전 확인사항, 자체 점수·등급 없이 출처·기준일과 함께 사실만 제공
+- **저장 · 상담 연결**: PDF 진단서, 1080×1350 요약 이미지, 창업상담·소상공인 지원기관 연결
 
-**My Role**
-- 아이디어 제안서 작성 → **팀 개발작으로 선정**
-- 입력 · 지도 · 타임라인 · 진단서 화면 개발과 API 연동
-- 2주 개발 → 공공 GitLab 등록 → 혁신박람회 시연 → 공무원 공동실험 예정
+**My Role** · Frontend (웹 화면 전체 개발 · 배포)
+- **화면 개발**: 랜딩 · 입력 · 분석 · 종합 진단 · 저장 등 화면 7종을 4단계(STEP 01~04) 흐름으로 구현
+- **API 연동**: 공통 응답 타입과 `fetch` 래퍼, API별 목업 스위치로 백엔드와 단계적 연결
+- **데이터 표시**: "정보 없음"과 사유 표시, 공식 / 참고 지표 분리, 출처·기준일 라벨
+- **지도**: 카카오 지도 연동, 같은 좌표 묶음, 300개 초과 시 클러스터
+- **안정성**: 영역별 오류 경계, 로딩 스켈레톤, 무료 서버 대비(미리 깨우기 · 45초 제한 · 1회 재시도)
+- **품질**: Vitest 단위 테스트 159개, CI 테스트, 접근성 점검(본문 바로가기 · 대비 · 키보드)
+- **배포**: Vercel 배포, README와 시연 대본 작성
 
 </details>
 
 <br>
 
-### ☕ AI 사수 · AI Mentor for Part-timers
-> 개인 카페 신입 알바생이 매뉴얼 사진을 외우는 대신, AI가 매뉴얼을 카드와 퀴즈로 정리하고 근무 중 질문에 답해 주는 서비스 · 대회 주제 "AI는 동료가 될 수 있는가"
+### ☕ crewBean · 혼자 막막했던 근무를 함께하는 크루로
+> 개인 카페 신입 알바생에게 우리 매장 매뉴얼·레시피로만 답하고, 모르는 건 **지어내지 않고 사장님께 넘기는** AI 사수 웹 앱 · 대회 주제 "AI는 동료가 될 수 있는가" · [🎬 시연 영상](https://www.youtube.com/watch?v=tNBlgXNmUDY)
 
-**Stack** &nbsp; `React` `TypeScript` `RAG` `LLM` `Notion`
+**Stack** &nbsp; `React 19` `TypeScript` `Vite` `TanStack Query` `Zustand` `Tailwind CSS v4` `shadcn/ui` `Supabase Auth` `PWA · Web Push` `Vercel` `FastAPI` `Gemini`
 
 <details>
 <summary><b>Key Features · My Role</b></summary>
 
 **Key Features**
-- **근거 기반 답변**: 우리 매장 매뉴얼만 근거로 답하고, 근거가 없으면 지어내지 않고 사장님께 넘김
-- **자라는 매뉴얼**: 사장님이 한 번 답하면 그 내용이 매뉴얼에 추가됨
-- **사람이 결정**: AI가 숙지도를 보여 주고, "혼자 근무 가능" 승인은 사장님이 결정
+- **AI 사수 채팅**: 매장에 등록된 매뉴얼·레시피에서만 답하고 출처를 표시, 근거가 없으면 사장님께 질문을 넘김
+- **레시피 · 매뉴얼**: 포스기처럼 카테고리 · 검색, 사장님은 사진 스캔으로 AI 초안 작성
+- **인수인계**: 줄글을 AI가 항목별로 정리하고 체크, 사장님은 하루 AI 요약 확인
+- **근무 · 급여**: 공유 근무표, 대타 요청 · 승인, 예상 급여(공제 포함)
+- **매장 · 입장**: 사업자 상태 확인으로 매장 등록, 초대코드 입장, 여러 매장 전환, 앱 알림(PWA)
 
-**My Role**
-- **알바생 화면 전체**: 입장·대기, 근무 시간대별 체크리스트 홈, 매뉴얼 카드, 빠른 검색, 퀴즈(오답 재출제), 물어보기, 숙지도
-- **디자인 시스템**: 공통 컴포넌트 설계 주도
-- **협업 운영**: 노션 워크스페이스 설계(회의록 ↔ 업무 DB), 발표 자료, 최종 제출
+**My Role** · FE (알바생 화면 · 공통 뼈대)
+- **알바생 화면 전체**: AI 사수 채팅, 레시피·매뉴얼, 인수인계, 근무·예상 급여, 입장 흐름
+- **공통 뼈대**: 라우터 · 로그인 가드 · API 클라이언트 · 디자인 시스템 공용 컴포넌트
+- **협업**: Claude Code로 AI 페어 프로그래밍, 모든 PR은 화면을 직접 테스트한 뒤 merge
 
 </details>
 
@@ -261,6 +271,7 @@
 
 | Period | Type | Activity | Status |
 | :-- | :-: | :-- | :-: |
+| 2026.11.16 ~ 11.30 | Program | **굿네이버스 웹 메이커스 1기** | `Ongoing` |
 | 2026.10 ~ 11 | Competition | **2026 AI 우왕톤** (멋사 × 충북대 AI부트캠프사업단) | `Ongoing` |
 | 2026.09 ~ 2027.01 | Program | **청년 공공 AX 서포터즈** (행정안전부 · NIA) | `Ongoing` |
 | 2026.09 ~ 10 | Competition | **2026 고용24 국민참여 AI 고용서비스 발굴 해커톤** | `Participated` |
@@ -273,13 +284,18 @@
 <details>
 <summary><b>Details</b></summary>
 
+#### 💚 굿네이버스 웹 메이커스 1기
+- **기간**: 2026.11.16 ~ 11.30
+- **결과물**: 웹 제작 프로젝트 레포 추가 예정
+- **수료증**: 수료 후 추가 예정
+
 #### 🏛 청년 공공 AX 서포터즈
 
 <img src="assets/ax-supporters.webp" width="110" align="right" alt="청년 공공 AX 서포터즈 배지">
 
 - 행정안전부 · 한국지능정보사회진흥원(NIA) 주관, 팀 **시고르자브종** 프론트엔드
-- AI 활용 공공서비스 아이디어 2건 제안(**새방**, **자리진단**) → **자리진단이 팀 개발작으로 선정**
-- 2주 개발 → 공공 GitLab 등록 → 혁신박람회 시연 → 공무원·청년 공동실험
+- AI 활용 공공서비스 아이디어 2건 제안(**새방**, **자리진단**) → **자리진단이 팀 개발작 'Spot:ON'으로 선정**
+- 2주 개발 · 배포 → 공공 GitLab 등록 → 혁신박람회 시연 → 공무원·청년 공동실험
 - 📷 [Instagram @public_ax_official](https://www.instagram.com/public_ax_official/)
 
 <br clear="right">
@@ -288,7 +304,7 @@
 - **Sessions**: Git 브랜치 전략, React Hooks 심화, TypeScript, Tailwind CSS, JWT 인증 플로우, Vercel 배포 · [Repo](https://github.com/CBNU-likelion/2026_14th_final_study_FE)
 - **Ideathon (2026.04 ~ 05)**: AI 취준 로드맵 서비스 기획, AI 분석 대시보드 프론트엔드 구현 · [Repo](https://github.com/CBNU-likelion/ideathon-4th-frontend)
 - **Hackathon**: 시니어 AI 음악 지도 서비스 '똑똑(TokTok)' 프론트엔드 리드 · [Repo](https://github.com/TokTok-lion/TokTok)
-- **AI 우왕톤**: 'AI 사수' FE · 노션 운영 (TEAM 13 F4)
+- **AI 우왕톤**: 'crewBean' FE · 알바생 화면과 공통 뼈대 (TEAM 13 F4) · [Repo](https://github.com/woowangthon/WOOWANGTHON_TEAM_13_FE)
 
 #### 📊 충북대 2026 직무(기업)분석 경진대회
 - **Analysis**: 토스증권 Server Developer 3개 Chapter(Product · Platform · Market Platform)의 업무, 기술 스택, KSA, 실제 기술 사례 비교

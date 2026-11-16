@@ -45,7 +45,7 @@
 
 | | Project | Period | Team | Role | Links |
 | :-: | :-- | :-- | :-- | :-- | :-: |
-| 💚 | **굿네이버스 웹 메이커스**<br>1기 웹 제작 프로젝트 | 2026.11.16 ~ 11.30 | 굿네이버스 웹 메이커스 1기 | Frontend | Repo 예정 |
+| 🌡️ | **같은 날씨, 다른 겨울**<br>겨울철 아동 에너지 빈곤 공감 웹서비스 | 2026.11 | 1인 · 굿네이버스 Web:메이커스 1기 | Full-cycle | [Repo](https://github.com/ryu-min-ji/same-weather) · [Demo](https://ryu-min-ji.github.io/same-weather/) |
 | 📍 | **Spot:ON**<br>공공데이터 기반 창업 입지 진단 | 2026.09 ~ 2027.01 | 5인 · 청년 공공 AX 서포터즈 | Frontend | [Repo](https://github.com/sigoreu-jabeujong/SpotON-FE) · [Demo](https://spot-on-fe.vercel.app) |
 | ☕ | **crewBean**<br>개인 카페 신입 알바생의 AI 사수 | 2026.10 ~ 11 | 4인 · 멋사 AI 우왕톤 | FE | [Repo](https://github.com/woowangthon/WOOWANGTHON_TEAM_13_FE) · [Demo](https://woowangthon-team-13-fe.vercel.app) |
 | 💑 | **갓생커플**<br>커플 자기계발 루틴 트래커 | 2026.08 | 1인 개발 | Full-cycle | [Repo](https://github.com/ryu-min-ji/gatsaeng-couple) · [Demo](https://gatsaeng-couple.vercel.app) |
@@ -55,6 +55,26 @@
 | 🏛 | **ACT:ON**<br>국민 참여형 법안 피드백 대시보드 | 2025.03 ~ 06 | 2인 · 오픈소스 기초 프로젝트 | Full-stack · UI/UX | [Repo](https://github.com/lgh04/MGP) |
 
 <!-- 수상한 프로젝트는 제목 바로 아래에 이렇게 한 줄 추가: **🏆 2026 OO대회 우수상** -->
+
+<br>
+
+### 🌡️ 같은 날씨, 다른 겨울
+> 오늘 우리 동네 실시간 기온으로 **내 방과 난방하지 못하는 방의 온도를 비교**하고, 그 방에서 겨울을 나는 아이의 하루와 지금 필요한 것을 보여 주는 웹서비스 · 굿네이버스 Web:메이커스 1기 1주차 실습 · 관련 SDGs 1 · 3 · 7 · 10
+
+**Stack** &nbsp; `HTML` `CSS` `JavaScript (Vanilla)` `Open-Meteo API` `SVG` `Canvas` `GitHub Pages`
+
+<details>
+<summary><b>Key Features</b></summary>
+
+- **두 방 비교하기**: 위치 또는 도시 선택으로 실시간 기온·오늘 밤 최저기온을 불러오고, 차림·하는 일·집 형태만 골라 두 방의 온도 차이와 필요한 물품을 표시
+- **"더 추운 날이라면?"**: 슬라이더로 기온을 바꾸면 모든 결과가 실시간으로 변경
+- **그 아이의 하루**: 24시간 기온으로 추정한 방 온도 그래프와 WHO 권장 18℃ 기준선, 아침·하교 후·저녁·밤 네 장면
+- **전국의 그 방들**: 전국 10개 도시의 오늘 밤 추정 방 온도를 지도와 추운 순서로 표시
+- **내 방 1℃가 할 수 있는 일**: 보일러 1~3℃ 절감액을 정기 나눔 횟수로 환산하고 "1℃ 나눔 약속" 카드 이미지 생성
+- **알리고 나누기**: 인스타 스토리 크기 결과 카드 저장·링크 공유, 에너지 빈곤 오해 3가지와 '사랑 ON(溫) 난방비' 사업 연결
+- **접근성**: 프레임워크·서버 없이 순수 코드로 구현, 반응형 · 키보드 조작 · '동작 줄이기' 설정 지원
+
+</details>
 
 <br>
 
@@ -285,8 +305,8 @@
 <summary><b>Details</b></summary>
 
 #### 💚 굿네이버스 웹 메이커스 1기
-- **기간**: 2026.11.16 ~ 11.30
-- **결과물**: 웹 제작 프로젝트 레포 추가 예정
+- **기간**: 2026.11.16 ~ 11.30 · 굿네이버스 서울인천권역본부 주관
+- **1주차 결과물**: 겨울철 아동 에너지 빈곤을 다룬 웹서비스 **'같은 날씨, 다른 겨울'** · [Repo](https://github.com/ryu-min-ji/same-weather) · [Demo](https://ryu-min-ji.github.io/same-weather/)
 - **수료증**: 수료 후 추가 예정
 
 #### 🏛 청년 공공 AX 서포터즈
